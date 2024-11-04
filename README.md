@@ -8,9 +8,9 @@
     
 ## About me
 
-I'm Yoann Potinet, a 24yo French (futur-engineer) living in Montreal, Quebec. I am passionate about automation and tooling. I wrote some tools to make life easier for developers. I'm a [Conan](https://github.com/conan-io/conan) and [Conan Center](https://github.com/conan-io/conan-center-index) contributor. I advise you to use this great tool to facilitate your C++ development.
+I'm Yoann Potinet, a French game developer living in Montreal, Quebec. I am passionate about automation and tooling. I wrote some tools to make life easier for developers. 
 
-You can find more details regarding my education and employment history in [my LinkedIn profile](https://www.linkedin.com/in/yoann-potinet/). I am looking for an internship and employment opportunities to complete my education. I’m looking to collaborate on professional AAA games and game engines.
+You can find more details regarding my education and employment history in [my LinkedIn profile](https://www.linkedin.com/in/yoann-potinet/).
 
 More links:
 - [My GitLab profile](https://gitlab.com/intelligide)
